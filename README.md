@@ -90,7 +90,5 @@ This project is open-source and available under the **MIT License**.
 
 ### 🌟 **Happy Coding!** 🎯  
 If you find this repository helpful, don’t forget to give it a ⭐!
-```
 
----
 
