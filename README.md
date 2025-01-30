@@ -94,9 +94,3 @@ If you find this repository helpful, don’t forget to give it a ⭐!
 
 ---
 
-### **Next Steps:**
-- Replace `"yourusername"` in the **GitHub link** with your actual GitHub username.
-- Update the **topics covered** based on your progress.
-- Add **more Java programs** as you learn new concepts.
-
-Would you like me to include anything else? 😊
